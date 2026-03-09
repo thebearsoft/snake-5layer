@@ -88,3 +88,4 @@ Game over conditions:
 | AC-06 | Self-collision triggers GAME_OVER |
 | AC-07 | Boundary collision triggers GAME_OVER |
 | AC-08 | Score starts at 0 and increments correctly |
+| AC-09 | Game renders at a consistent tick rate (e.g. 150ms), and speed increases incrementally every N points scored |
