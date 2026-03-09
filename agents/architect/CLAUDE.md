@@ -1,5 +1,6 @@
 # ARCHITECT AGENT
 ## Project: snake-5-layer-demo
+## Model: Opus 4.6 or greater versions
 
 ## Read First
 Read `CLAUDE.md` at the repository root before anything else.
