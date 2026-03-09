@@ -1,5 +1,6 @@
 # TESTER AGENT
 ## Project: snake-5-layer-demo
+## Model: haiku 4.6 or greater version
 
 ## Read First
 Read `CLAUDE.md` at the repository root before anything else.
