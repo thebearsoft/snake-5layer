@@ -45,6 +45,7 @@ snake-5-layer-demo/
 4. Every agent produces output without asking questions.
    If uncertain, document the uncertainty in the output.
 5. Human review (Jimmy) is the final gate before any merge.
+6. Never mask/avoid errors, the error handling should never bypass or failback with defaults, should err and degrade gratiously
 
 ## Git Workflow
 - `develop` — integration branch (all feature branches merge here)
